@@ -26,7 +26,7 @@
 ### 最快上手方式
 
 1. **下载应用**
-   - 从 [Releases](https://github.com/geograhic/pyinstaller-to-exe/releases) 下载最新的 exe 文件
+   - 从 [dist](https://github.com/geograhic/pyinstaller-to-exe/tree/main/dist) 下载最新的 exe 文件
    - 或克隆此仓库后自行打包成 exe
 
 2. **启动应用**
